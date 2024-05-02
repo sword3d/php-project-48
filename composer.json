@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/code",
+    "description": "php-progect-2",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel B",
+            "email": "pavel.buynovskiy@gmail.com"
+        }
+    ],
+    "require": {}
+}
