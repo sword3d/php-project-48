@@ -21,6 +21,7 @@
       <path value="$PROJECT_DIR$/vendor/docopt/docopt" />
       <path value="$PROJECT_DIR$/vendor/wp-cli/php-cli-tools" />
       <path value="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/vendor/lstrojny/functional-php" />
     </include_path>
   </component>
   <component name="PhpStanOptionsConfiguration">
