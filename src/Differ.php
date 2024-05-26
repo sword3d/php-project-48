@@ -5,7 +5,8 @@ namespace Hexlet\Code;
 use function Functional\sort;
 use function Functional\reduce_left;
 
-function genDiff(string $pathToFile1, string $pathToFile2): string {
+function genDiff(string $pathToFile1, string $pathToFile2): string
+{
     $content1 = json_decode(file_get_contents($pathToFile1), true);
     $content2 = json_decode(file_get_contents($pathToFile2), true);
 
