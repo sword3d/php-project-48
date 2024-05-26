@@ -15,6 +15,9 @@ fix:
 help:
 	./gendiff -h
 
+diff:
+	./gendiff files/file1.json files/file2.json
 
 
 # make help
+# make diff
